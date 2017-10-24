@@ -116,8 +116,8 @@ body, #slider, .wrap, .slide-content{
   background-repeat: no-repeat;
 }
 
-.slide1 { background-image: url("img/bg1a.JPG"); }
-.slide2 { background-image: url("img/bg1b.JPG"); }
+.slide1 { background-image: url("Ecommerce-website/img/bg1a.JPG"); }
+.slide2 { background-image: url("Ecommerce-website/img/bg1b.JPG"); }
 .slide3 { background-image: url("Ecommerce-website/img/bizwoman.jpg"); }
 
 .slide-content{
