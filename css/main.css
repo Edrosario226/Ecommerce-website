@@ -116,7 +116,7 @@ body, #slider, .wrap, .slide-content{
   background-repeat: no-repeat;
 }
 
-.slide1 { background-image: url("img/bg1a.JPG"); }
+.slide1 { background-image: url("https://images.unsplash.com/photo-1483656166969-b06816dfb1a0?w=1350&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D"); }
 .slide2 { background-image: url("img/bg1b.JPG"); }
 .slide3 { background-image: url("https://images.unsplash.com/photo-1471017851983-fc49d89c57c2?w=1350&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D"); }
 
