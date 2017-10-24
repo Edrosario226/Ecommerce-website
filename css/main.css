@@ -118,7 +118,7 @@ body, #slider, .wrap, .slide-content{
 
 .slide1 { background-image: url("img/bg1a.JPG"); }
 .slide2 { background-image: url("img/bg1b.JPG"); }
-.slide3 { background-image: url("img/bizwoman.jpg"); }
+.slide3 { background-image: url("https://images.unsplash.com/photo-1471017851983-fc49d89c57c2?w=1350&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D"); }
 
 .slide-content{
   display: flex;
