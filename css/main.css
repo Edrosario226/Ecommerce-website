@@ -116,7 +116,7 @@ body, #slider, .wrap, .slide-content{
   background-repeat: no-repeat;
 }
 
-.slide1 { background-image: url("../img/bg1a.JPG"); }
+.slide1 { background-image: url("/img/bg1a.JPG"); }
 .slide2 { background-image: url("img/bg1b.JPG"); }
 .slide3 { background-image: url("img/bizwoman.JPG"); }
 
