@@ -117,8 +117,8 @@ body, #slider, .wrap, .slide-content{
 }
 
 .slide1 { background-image: url("https://edrosario226.github.io/Ecommerce-website/imgs/bg1a.jpg"); }
-.slide2 { background-image: url("https://edrosario226.github.io/Ecommerce-website/imgs/bg1b.JPG"); }
-.slide3 { background-image: url("https://edrosario226.github.io/Ecommerce-website/imgs/bizwoman.JPG"); }
+.slide2 { background-image: url("https://edrosario226.github.io/Ecommerce-website/imgs/bg1b.jpg"); }
+.slide3 { background-image: url("https://edrosario226.github.io/Ecommerce-website/imgs/bizwoman.jpg"); }
 
 .slide-content{
   display: flex;
