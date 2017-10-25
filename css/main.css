@@ -116,7 +116,7 @@ body, #slider, .wrap, .slide-content{
   background-repeat: no-repeat;
 }
 
-.slide1 { background-image: url("/imgs/bg1.png"); }
+.slide1 { background-image: url("https://edrosario226.github.io/Ecommerce-website/imgs/bg1a.jpg"); }
 .slide2 { background-image: url("imgs/bg1b.JPG"); }
 .slide3 { background-image: url("imgs/bizwoman.JPG"); }
 
